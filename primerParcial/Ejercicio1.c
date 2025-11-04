@@ -12,6 +12,9 @@ int main(){
     scanf("%s", ape);
 
     printf("Hola %s %s \n", nom, ape);
+     printf("Hola %s %s \n", nom, ape);
+      printf("Hola %s %s \n", nom, ape);
+       printf("Hola %s %s \n", nom, ape);
 
     return 0;
 }
